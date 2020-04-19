@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace OOP_Lab_3
 {
-    class HardDrive : Product
+    public class HardDrive : Item
     {
-        public HardDrive(string name, int price, string companyName, int capacity, int rotateSpeed, string connectionInterface) : base(name, price, companyName)
+        public HardDrive(string name, int price, string companyName, int amount, int capacity, int rotateSpeed, string connectionInterface) : base(name, price, companyName, amount)
         {
             Capacity = capacity;
             RotateSpeed = rotateSpeed;

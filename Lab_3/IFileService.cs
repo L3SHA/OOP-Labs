@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace OOP_Lab_3
 {
-    interface ISerialize
+    public interface IFileService
     {
-        void Serialize(object simpleObject, string path);
+        void SaveToFile(string path, string str);
 
-        List<Product> Deserialize(string path);
+        string ReadFromFile(string path);
     }
 }

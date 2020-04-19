@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace OOP_Lab_3
 {
-    class Processor : Product
+    public class Processor : Item
     {
-        public Processor ()
-        {
-
-        }
-        public Processor(string name, int price, string companyName, int coresNum, double frequency, int processTechnology, int cacheSize, int thermalDesignPower) : base(name, price, companyName) 
+        public Processor(string name, int price, string companyName, int amount, int coresNum, double frequency, int processTechnology, int cacheSize, int thermalDesignPower) : base(name, price, companyName, amount) 
         {
             CoresNum = coresNum;  
             Frequency = frequency;
