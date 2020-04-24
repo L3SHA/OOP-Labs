@@ -60,3 +60,7 @@ C:\Fourth semester\OOP\OOP-Labs\Lab_3\obj\Debug\OOP_Lab_3.csproj.CopyComplete
 C:\Fourth semester\OOP\OOP-Labs\Lab_3\obj\Debug\OOP_Lab_3.ProcessorEditor.resources
 C:\Fourth semester\OOP\OOP-Labs\Lab_3\obj\Debug\OOP_Lab_3.fMain.resources
 C:\Fourth semester\OOP\OOP-Labs\Lab_3\obj\Debug\OOP_Lab_3.MotherboardEditor.resources
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\obj\Debug\OOP_Lab_3.HardDriveEditor.resources
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\obj\Debug\OOP_Lab_3.PowerSupplyEditor.resources
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\obj\Debug\OOP_Lab_3.RAMEditor.resources
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\obj\Debug\OOP_Lab_3.SystemCaseEditor.resources

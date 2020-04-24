@@ -135,6 +135,15 @@
     <Compile Include="SystemCaseEditor.Designer.cs">
       <DependentUpon>SystemCaseEditor.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="HardDriveEditor.resx">
+      <DependentUpon>HardDriveEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PowerSupplyEditor.resx">
+      <DependentUpon>PowerSupplyEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RAMEditor.resx">
+      <DependentUpon>RAMEditor.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Storage.resx">
       <DependentUpon>Storage.cs</DependentUpon>
     </EmbeddedResource>
@@ -153,6 +162,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="SystemCaseEditor.resx">
+      <DependentUpon>SystemCaseEditor.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

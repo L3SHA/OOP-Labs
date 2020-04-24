@@ -5,6 +5,11 @@ namespace OOP_Lab_3
 {
     public partial class ProcessorEditor : Form
     {
+        public ProcessorEditor()
+        {
+            InitializeComponent();
+        }
+
         public ProcessorEditor(openType type, string name)
         {
             InitializeComponent();
@@ -41,10 +46,6 @@ namespace OOP_Lab_3
             tbProcessTechnology.Text = item.ProcessTechnology.ToString();
             tbCacheSize.Text = item.CacheSize.ToString();
             tbThermalDesignPower.Text = item.ThermalDesignPower.ToString();
-        }
-        public ProcessorEditor()
-        {
-            InitializeComponent();
         }
 
         private void btnSave_Click(object sender, EventArgs e)
