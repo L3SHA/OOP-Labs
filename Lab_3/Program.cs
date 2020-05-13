@@ -1,15 +1,11 @@
 ﻿using System;
+using Storehouse.GUI;
 using System.Windows.Forms;
 
-namespace OOP_Lab_3
+namespace Storehouse
 {
     static class Program
     {
-        /// <summary>
-        /// Главная точка входа для приложения.
-        /// </summary>
-        delegate Item ItemConstructor();
-
         [STAThread]
         static void Main()
         {

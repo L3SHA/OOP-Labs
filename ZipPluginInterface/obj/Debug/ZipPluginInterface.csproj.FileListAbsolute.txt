@@ -1,0 +1,4 @@
+C:\Fourth semester\OOP\OOP-Labs\ZipPluginInterface\bin\Debug\ZipPluginInterface.dll
+C:\Fourth semester\OOP\OOP-Labs\ZipPluginInterface\bin\Debug\ZipPluginInterface.pdb
+C:\Fourth semester\OOP\OOP-Labs\ZipPluginInterface\obj\Debug\ZipPluginInterface.dll
+C:\Fourth semester\OOP\OOP-Labs\ZipPluginInterface\obj\Debug\ZipPluginInterface.pdb

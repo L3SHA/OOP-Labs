@@ -1,0 +1,5 @@
+C:\Fourth semester\OOP\OOP-Labs\SerializerInterface\bin\Debug\SerializerInterface.dll
+C:\Fourth semester\OOP\OOP-Labs\SerializerInterface\bin\Debug\SerializerInterface.pdb
+C:\Fourth semester\OOP\OOP-Labs\SerializerInterface\obj\Debug\SerializerInterface.dll
+C:\Fourth semester\OOP\OOP-Labs\SerializerInterface\obj\Debug\SerializerInterface.pdb
+C:\Fourth semester\OOP\OOP-Labs\SerializerInterface\obj\Debug\SerializerInterface.csprojAssemblyReference.cache

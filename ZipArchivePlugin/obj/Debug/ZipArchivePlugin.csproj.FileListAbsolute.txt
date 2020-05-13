@@ -1,0 +1,7 @@
+C:\Fourth semester\OOP\OOP-Labs\ZipArchivePlugin\bin\Debug\ZipArchivePlugin.dll
+C:\Fourth semester\OOP\OOP-Labs\ZipArchivePlugin\bin\Debug\ZipArchivePlugin.pdb
+C:\Fourth semester\OOP\OOP-Labs\ZipArchivePlugin\bin\Debug\ZipPluginInterface.dll
+C:\Fourth semester\OOP\OOP-Labs\ZipArchivePlugin\bin\Debug\ZipPluginInterface.pdb
+C:\Fourth semester\OOP\OOP-Labs\ZipArchivePlugin\obj\Debug\ZipArchivePlugin.csproj.CopyComplete
+C:\Fourth semester\OOP\OOP-Labs\ZipArchivePlugin\obj\Debug\ZipArchivePlugin.dll
+C:\Fourth semester\OOP\OOP-Labs\ZipArchivePlugin\obj\Debug\ZipArchivePlugin.pdb

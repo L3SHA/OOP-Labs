@@ -1,0 +1,11 @@
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\Plugins\bin\Debug\netcoreapp3.0\Plugins.deps.json
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\Plugins\bin\Debug\netcoreapp3.0\Plugins.dll
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\Plugins\bin\Debug\netcoreapp3.0\Plugins.pdb
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\Plugins\bin\Debug\netcoreapp3.0\PluginsInterface.dll
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\Plugins\bin\Debug\netcoreapp3.0\PluginsInterface.pdb
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\Plugins\obj\Debug\netcoreapp3.0\Plugins.csprojAssemblyReference.cache
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\Plugins\obj\Debug\netcoreapp3.0\Plugins.AssemblyInfoInputs.cache
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\Plugins\obj\Debug\netcoreapp3.0\Plugins.AssemblyInfo.cs
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\Plugins\obj\Debug\netcoreapp3.0\Plugins.csproj.CopyComplete
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\Plugins\obj\Debug\netcoreapp3.0\Plugins.dll
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\Plugins\obj\Debug\netcoreapp3.0\Plugins.pdb
