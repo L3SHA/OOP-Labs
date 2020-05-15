@@ -1,0 +1,9 @@
+C:\Fourth semester\OOP\JsonSerializer\bin\Debug\JsonSerializer.dll
+C:\Fourth semester\OOP\JsonSerializer\bin\Debug\JsonSerializer.pdb
+C:\Fourth semester\OOP\JsonSerializer\bin\Debug\Newtonsoft.Json.dll
+C:\Fourth semester\OOP\JsonSerializer\bin\Debug\SerializerInterface.dll
+C:\Fourth semester\OOP\JsonSerializer\bin\Debug\Newtonsoft.Json.xml
+C:\Fourth semester\OOP\JsonSerializer\obj\Debug\JsonSerializer.csproj.CopyComplete
+C:\Fourth semester\OOP\JsonSerializer\obj\Debug\JsonSerializer.dll
+C:\Fourth semester\OOP\JsonSerializer\obj\Debug\JsonSerializer.pdb
+C:\Fourth semester\OOP\JsonSerializer\obj\Debug\JsonSerializer.csprojAssemblyReference.cache

@@ -37,3 +37,5 @@ C:\Fourth semester\OOP\OOP-Labs\Lab_3\obj\Debug\Storehouse.exe
 C:\Fourth semester\OOP\OOP-Labs\Lab_3\obj\Debug\Storehouse.pdb
 C:\Fourth semester\OOP\OOP-Labs\Lab_3\bin\Debug\ZipPluginInterface.dll
 C:\Fourth semester\OOP\OOP-Labs\Lab_3\bin\Debug\ZipPluginInterface.pdb
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\bin\Debug\EncryptionPlugin.dll
+C:\Fourth semester\OOP\OOP-Labs\Lab_3\bin\Debug\EncryptionPlugin.pdb

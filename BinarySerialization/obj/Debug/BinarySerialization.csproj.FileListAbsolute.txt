@@ -1,0 +1,6 @@
+C:\Fourth semester\OOP\BinarySerialization\bin\Debug\BinarySerialization.dll
+C:\Fourth semester\OOP\BinarySerialization\bin\Debug\BinarySerialization.pdb
+C:\Fourth semester\OOP\BinarySerialization\bin\Debug\SerializerInterface.dll
+C:\Fourth semester\OOP\BinarySerialization\obj\Debug\BinarySerialization.csproj.CopyComplete
+C:\Fourth semester\OOP\BinarySerialization\obj\Debug\BinarySerialization.dll
+C:\Fourth semester\OOP\BinarySerialization\obj\Debug\BinarySerialization.pdb
